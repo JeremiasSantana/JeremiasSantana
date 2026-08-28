@@ -1,4 +1,4 @@
-# Olá, eu sou Jeremias 👋
+# Olá, me chamo Jeremias 
 
 ### Desenvolvedor Python | RPA & Automação de Processos
 
@@ -7,6 +7,7 @@ Sou desenvolvedor Python com foco em **RPA, automação de processos e integraç
 Tenho interesse em transformar processos manuais e repetitivos em soluções automatizadas, utilizando Python para trabalhar com **sistemas web, bancos de dados, planilhas, APIs e manipulação de dados**.
 
 Atualmente, desenvolvo projetos práticos inspirados em situações reais de ambientes administrativos e financeiros, buscando evoluir tanto minhas habilidades técnicas quanto minha capacidade de estruturar, organizar e manter aplicações de automação.
+Sou uma pessoa bastante curiosa que ta sempre estudando para aprender algo novo onde eu possa contribuir com algo futuramente.
 
 ---
 
@@ -39,6 +40,11 @@ Atualmente, desenvolvo projetos práticos inspirados em situações reais de amb
 - Poetry
 - Logging
 - Variáveis de ambiente
+
+**Plano de estudo/Estudando**
+- pw(playwhiriter)
+- Docker
+- Automação integrada com IA
 
 ---
 
