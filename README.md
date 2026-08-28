@@ -41,11 +41,6 @@ Sou uma pessoa bastante curiosa que ta sempre estudando para aprender algo novo 
 - Logging
 - Variáveis de ambiente
 
-**Plano de estudo/Estudando**
-- pw(playwhiriter)
-- Docker
-- Automação integrada com IA
-
 ---
 
 ## 🚀 Projeto em destaque
@@ -83,6 +78,10 @@ O sistema:
 - Banco de dados e SQL
 - APIs
 - Processamento e manipulação de dados
+- Docker
+- pw(playwhiter)
+- Automação integrada com IA
+- Segurança de código
 
 ---
 
