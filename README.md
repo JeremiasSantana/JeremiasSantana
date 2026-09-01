@@ -18,6 +18,7 @@ Sou uma pessoa bastante curiosa que ta sempre estudando para aprender algo novo 
 
 **Automação**
 - Selenium
+- Playwrither
 - BotCity
 - PyAutoGUI
 
