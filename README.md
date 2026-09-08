@@ -98,3 +98,4 @@ Meu objetivo é desenvolver soluções que reduzam tarefas repetitivas, diminuam
 
 - **GitHub:** [JeremiasSantana](https://github.com/JeremiasSantana)
 - **E-mail:** jeremiassantana50@gmail.com
+- **Linkedin:** [Linkedin](www.linkedin.com/in/jeremias-santana-b4ab02272)
