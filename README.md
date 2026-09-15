@@ -116,7 +116,6 @@ Atualmente direciono meu desenvolvimento para **RPA e desenvolvimento de automa�
 - Integração entre APIs, bancos de dados e sistemas;
 - Boas práticas de desenvolvimento e manutenção de código;
 - Segurança e qualidade de aplicações;
-- Docker e automação integrada com IA.
 
 ---
 
